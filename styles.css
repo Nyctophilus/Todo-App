@@ -81,3 +81,6 @@ body {
 .container .clear {
   font-size: 18px;
 }
+.container .clear:hover {
+  filter: drop-shadow(5px 2px 5px grey);
+}
